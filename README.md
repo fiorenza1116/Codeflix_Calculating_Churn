@@ -1,5 +1,6 @@
 # ***Codeflix: Calculating Churn***
 
+![ ](https://fiorenza1116.github.io/cfiorenza_portfolio/Images/ChurnRate.png)
 ### ***Description***
 
 Four months into launching Codeflix, management asks you to look into subscription churn rates. It’s early on in the business and people are excited to know how the company is doing. The marketing department is particularly interested in how the churn compares between two segments of users. They provide you with a dataset containing subscription data for users who were acquired through two distinct channels.
